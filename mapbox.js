@@ -1,12 +1,12 @@
 var FILES = {
   mapbox: {
-    js:   ['https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.js'],
-    css:  ['https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.css'],
+    js:   ['https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.js'],
+    css:  ['https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.css'],
   },
 
   mapboxgl: {
-    js:   ['https://api.mapbox.com/mapbox-gl-js/v0.24.0/mapbox-gl.js'],
-    css:  ['https://api.mapbox.com/mapbox-gl-js/v0.24.0/mapbox-gl.css'],
+    js:   ['https://api.mapbox.com/mapbox-gl-js/v0.28.0/mapbox-gl.js'],
+    css:  ['https://api.mapbox.com/mapbox-gl-js/v0.28.0/mapbox-gl.css'],
   },
 
   turf: {
